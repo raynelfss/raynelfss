@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @raynelfss
-- 👀 I’m interested in Web Development, AR and Quantum Computing.
-- 🌱 I’m currently learning Swift and Rust.
+- 👀 I’m an Open Source Software Developer at IBM Research.
+- 🌱 Currently working on Qiskit.
 - 💞️ I’m looking to collaborate on small Web development projects.
-- 📫 You can reach me via email at: raynelfss@hotmail.com
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/raynel-s/).
 
 <!---
 raynelfss/raynelfss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
