@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raynelfss
 - 👀 I’m an Open Source Software Developer at IBM Research.
 - 🌱 Currently working on Qiskit.
-- 💞️ I’m looking to collaborate on small Web development projects.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/raynel-s/).
 
 <!---
